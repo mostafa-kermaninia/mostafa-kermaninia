@@ -1,8 +1,8 @@
 ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/mostafa-kermaninia/about_me_PRO/master/assets/NATURE.jpg)
+<h1> Hi! I'm Mostafa.<img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Mostafa</h2>
-
-### 👨🏻‍💻 &nbsp;About Me
+<br>
+<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Engineering at the University of Tehran.\
@@ -10,6 +10,7 @@
 🌱 &nbsp;In my free time, I pursue mountaineering and ecotourism as hobbies hustles.\
 ✉️ &nbsp;You can shoot me an email at kermaninia@ut.ac.ir! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [RESUME](https://raw.githubusercontent.com/mostafa-kermaninia/about_me_PRO/master/assets/resume.pdf) for more details about me. I'm open to feedback and suggestions!
+<br>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -27,6 +28,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -35,3 +37,15 @@
 <a href="https://instagram.com/mosiyo_kerry"><img src="https://img.shields.io/badge/-@mosiyo__kerry-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 </p>
+
+<br/>
+<br/>
+It's for you!
+
+  ![Snake animation](https://github.com/LeonardoYz/LeonardoYz/blob/output/github-contribution-grid-snake.svg)
+
+#
+
+<h3>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
+
+#
