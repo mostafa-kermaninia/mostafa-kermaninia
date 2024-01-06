@@ -37,7 +37,7 @@
 <a href="https://instagram.com/mosiyo_kerry"><img src="https://img.shields.io/badge/-@mosiyo__kerry-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-kermaninia&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-kermaninia&langs_count=20)](https://github.com/mostafa-kermaninia/mostafa-kermaninia)
 
 <br/>
 <br/>
