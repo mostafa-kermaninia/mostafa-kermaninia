@@ -38,10 +38,7 @@
 
 </p>
 
-
-<br/>
-<br/>
-<h3>TOP LANGS</h3>
+<h2> <img src="https://media.idownloadblog.com/wp-content/uploads/2016/11/Animated-GIF-Banana.gif" width="50"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-kermaninia&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
