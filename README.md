@@ -43,7 +43,7 @@
 <br/>
 <h3>TOP LANGS</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-kermaninia&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-kermaninia&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>It's for you!</h3>
 
