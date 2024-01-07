@@ -37,16 +37,20 @@
 <a href="https://instagram.com/mosiyo_kerry"><img src="https://img.shields.io/badge/-@mosiyo__kerry-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-kermaninia&langs_count=20)](https://github.com/mostafa-kermaninia/mostafa-kermaninia)
+
 
 <br/>
 <br/>
-It's for you!
+<h3>TOP LANGS</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-kermaninia&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3>It's for you!</h3>
 
   ![Snake animation](https://github.com/LeonardoYz/LeonardoYz/blob/output/github-contribution-grid-snake.svg)
 
 #
 
-<h3>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
+<h2>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h2>
 
 #
