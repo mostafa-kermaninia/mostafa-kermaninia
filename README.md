@@ -38,10 +38,11 @@
 
 </p>
 
-<h2> <img src="https://media.idownloadblog.com/wp-content/uploads/2016/11/Animated-GIF-Banana.gif" width="50"/> TOP LANGS </h2>
+<h2> <img src="https://media.idownloadblog.com/wp-content/uploads/2016/11/Animated-GIF-Banana.gif" width="50"/> More Info </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-kermaninia&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-kermaninia&theme=dark&langs_count=12&layout=compact" alt="Top_Langs"/>
+  </a>
 
 #
 
