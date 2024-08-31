@@ -8,7 +8,7 @@
 🎓 &nbsp;I'm currently studying Computer Engineering at the University of Tehran.\
 ✍️ &nbsp;I'm on track for learning more about Artificial Intelligence and related topics.\
 🌱 &nbsp;In my free time, I pursue mountaineering and ecotourism as hobbies hustles.\
-✉️ &nbsp;You can shoot me an email at kermaninia@ut.ac.ir! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at mkermani1383@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [RESUME](https://raw.githubusercontent.com/mostafa-kermaninia/about_me_PRO/master/assets/resume.pdf) for more details about me. I'm open to feedback and suggestions!
 <br>
 
