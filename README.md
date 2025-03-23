@@ -32,19 +32,17 @@
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 
 ### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/mostafa-kermaninia/"><img src="https://img.shields.io/badge/mostafa--kermaninia-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="kermaninia@ut.ac.ir"><img src="https://img.shields.io/badge/kermaninia@ut.ac.ir-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/mosiyo_kerry"><img src="https://img.shields.io/badge/-@mosiyo__kerry-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-
+<p align="left">
+<a href="https://twitter.com/mosiyo_kerry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mostafakermaninia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mostafakermaninia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mostafakermaninia/" height="30" width="40" /></a>
+<a href="https://instagram.com/mosiyo_kerry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/mosiyo_kerry" height="30" width="40" /></a>
 </p>
 
 <h2> <img src="https://media.idownloadblog.com/wp-content/uploads/2016/11/Animated-GIF-Banana.gif" width="50"/> More Info </h2>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-kermaninia&theme=dark&langs_count=12&layout=compact" alt="Top_Langs"/>
-  </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-kermaninia&theme=dark&langs_count=12&layout=compact&exclude_repo=Speaker-ID-and-Gender-Classification,RF-learning-and-LSTM,Quantum-Neural-Networks-and-Unsupervised-Learning,Pretrained-CNNs-and-GAN-implementation,Unsupervised-learning-algorithms,AI-Optimizers-and-Imbalance-dataset" alt="Top_Langs"/>
+</a>
 
 #
 
