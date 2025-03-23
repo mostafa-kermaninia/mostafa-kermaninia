@@ -39,11 +39,15 @@
 </p>
 
 <h2> <img src="https://media.idownloadblog.com/wp-content/uploads/2016/11/Animated-GIF-Banana.gif" width="50"/> More Info </h2>
-<img src="https://github-readme-stats.vercel.app/api?username=mostafa-kermaninia&show_icons=true" alt="Mostafa Kermaninia Github Stats"></img>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-kermaninia&theme=dark&langs_count=12&layout=compact&exclude_repo=Speaker-ID-and-Gender-Classification,RF-learning-and-LSTM,Quantum-Neural-Networks-and-Unsupervised-Learning,Pretrained-CNNs-and-GAN-implementation,Unsupervised-learning-algorithms,AI-Optimizers-and-Imbalance-dataset" alt="Top_Langs"/>
-</a>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafa-kermaninia&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-kermaninia&theme=dark&langs_count=12&layout=compact&exclude_repo=Speaker-ID-and-Gender-Classification,RF-learning-and-LSTM,Quantum-Neural-Networks-and-Unsupervised-Learning,Pretrained-CNNs-and-GAN-implementation,Unsupervised-learning-algorithms,AI-Optimizers-and-Imbalance-dataset" alt="Top_Langs&theme=dark" /></p>
+</p>
+
+
 
 #
 
