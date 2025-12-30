@@ -42,11 +42,16 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mostafa-kermaninia&show_icons=true&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-kermaninia&theme=dark&langs_count=12&layout=compact&exclude_repo=Speaker-ID-and-Gender-Classification,RF-learning-and-LSTM,Quantum-Neural-Networks-and-Unsupervised-Learning,Pretrained-CNNs-and-GAN-implementation,Unsupervised-learning-algorithms,AI-Optimizers-and-Imbalance-dataset" alt="Top_Langs&theme=dark" /></p>
-</p>
+</p> -->
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafa-kermaninia&show_icons=true&theme=dark" alt="Mostafa's Github Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-kermaninia&theme=dark&langs_count=12&layout=compact&exclude_repo=Speaker-ID-and-Gender-Classification,RF-learning-and-LSTM,Quantum-Neural-Networks-and-Unsupervised-Learning,Pretrained-CNNs-and-GAN-implementation,Unsupervised-learning-algorithms,AI-Optimizers-and-Imbalance-dataset" alt="Top Languages" />
+</p>
 
 
 #
