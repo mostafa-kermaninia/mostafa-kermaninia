@@ -5,12 +5,6 @@
 <p align="left">
   <img src="https://img.shields.io/github/followers/mostafa-kermaninia?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://komarev.com/ghpvc/?username=mostafa-kermaninia&label=Profile%20Views&color=2e1065&style=flat" alt="Profile views" />
-  <img src="https://gitviews.com/user/mostafa-kermaninia/repos.svg?style=flat&label-color=%23555&color=6366f1" alt="GitHub Repo Views" />
-  <!-- TOTAL_STARS -->
-<img src="https://img.shields.io/badge/Stars-12-fbbf24?logo=github&logoColor=black" alt="GitHub Stars" />
-  <!-- /TOTAL_STARS -->
-  <!-- STARRED_COUNT -->
-<img src="https://img.shields.io/badge/Starred-3462-065f46?logo=github&logoColor=white" alt="Starred Repos" />
   <!-- /STARRED_COUNT -->
 </p>
 
@@ -55,6 +49,21 @@
 <h2> <img src="https://media.idownloadblog.com/wp-content/uploads/2016/11/Animated-GIF-Banana.gif" width="50"/> More Info </h2>
 
 
+<details>
+  <summary>📊 Github Analytics</summary>
+  <br>
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mostafa-kermaninia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-kermaninia&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages" />
+  </div>
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-kermaninia&theme=tokyonight" alt="GitHub Streak" />
+  </div>
+  <br>
+</details>
+
+
+<details>
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mostafa-kermaninia&show_icons=true&theme=dark" />
