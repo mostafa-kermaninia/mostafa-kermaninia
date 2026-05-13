@@ -3,9 +3,9 @@
 
 <br>
 <p align="left">
-  <img src="https://img.shields.io/github/followers/paranjayy?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://komarev.com/ghpvc/?username=paranjayy&label=Profile%20Views&color=2e1065&style=flat" alt="Profile views" />
-  <img src="https://gitviews.com/user/paranjayy/repos.svg?style=flat&label-color=%23555&color=6366f1" alt="GitHub Repo Views" />
+  <img src="https://img.shields.io/github/followers/mostafa-kermaninia?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=mostafa-kermaninia&label=Profile%20Views&color=2e1065&style=flat" alt="Profile views" />
+  <img src="https://gitviews.com/user/mostafa-kermaninia/repos.svg?style=flat&label-color=%23555&color=6366f1" alt="GitHub Repo Views" />
   <!-- TOTAL_STARS -->
 <img src="https://img.shields.io/badge/Stars-12-fbbf24?logo=github&logoColor=black" alt="GitHub Stars" />
   <!-- /TOTAL_STARS -->
