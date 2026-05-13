@@ -2,6 +2,20 @@
 <h1> Hi! I'm Mostafa.<img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 
 <br>
+<p align="left">
+  <img src="https://img.shields.io/github/followers/paranjayy?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=paranjayy&label=Profile%20Views&color=2e1065&style=flat" alt="Profile views" />
+  <img src="https://gitviews.com/user/paranjayy/repos.svg?style=flat&label-color=%23555&color=6366f1" alt="GitHub Repo Views" />
+  <!-- TOTAL_STARS -->
+<img src="https://img.shields.io/badge/Stars-12-fbbf24?logo=github&logoColor=black" alt="GitHub Stars" />
+  <!-- /TOTAL_STARS -->
+  <!-- STARRED_COUNT -->
+<img src="https://img.shields.io/badge/Starred-3462-065f46?logo=github&logoColor=white" alt="Starred Repos" />
+  <!-- /STARRED_COUNT -->
+</p>
+
+
+<br>
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
